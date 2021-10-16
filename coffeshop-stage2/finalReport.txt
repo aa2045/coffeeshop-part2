@@ -1,0 +1,186 @@
+***********************************
+		MENU
+**********************************
+﻿Category,Food_Code,Item,Description,Price,Time,Staff
+BEVERAGE,B111,MangoMilkshake,Mango and Milk,10,2,W
+BEVERAGE,B112,Abood,Combination of melon and milk,7,2,W
+BEVERAGE,B113,Tea,Served hot,2,1,B
+BEVERAGE,B114,Coffee,Served hot,2,2,B
+BEVERAGE,B115,BobbaTea,Bubble tea with tapioca pearls,10,2,W
+FOOD,F116,ClubSandwich,Turkey and beef,26,2,W
+FOOD,F117,ArabitaPasta,Arabita sauce pasta,23,2,C
+FOOD,F118,Ramen,Spicy ramen,14,2,C
+FOOD,F119,Nachos,Nachos with jalepenos,15,2,W
+FOOD,F120,Fries,Crispy fries,11,2,C
+FOOD,F123,Pizza,All the meats,41,2,C
+FOOD,F119,Cheese,cheese,1,1,W
+FOOD,F120,Cake,Chocolate moist,15,1,W
+OTHER,I123,Internet1, 30 min of internet package,10,1,W
+OTHER,I124,Internet2, 60 min of internet package,17,1,W
+OTHER,I125,Internet3, 180 min of internet package,27,1,W
+OTHER,I126,Shisha, shisha with different flavour,50,2,W
+
+
+**********************************
+		Customer Orders
+*********************************
+
+customer uysk4: 
+Item: B114  Coffee
+Cost: 2.0AED
+
+-------------------------------
+Total AED: 2.0
+Assigned to: the Barista
+Partial Income: 2.0
+
+
+
+customer jsck7: 
+Item: B113  Tea
+Cost: 2.0AED
+
+-------------------------------
+Item: B113  Tea
+Cost: 2.0AED
+
+-------------------------------
+Total AED: 4.0
+Assigned to: the Barista
+Partial Income: 6.0
+
+
+
+customer pfflo: 
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+
+-------------------------------
+Total AED: 10.0
+Assigned to: staff1
+Partial Income: 16.0
+
+
+
+customer xpha8: 
+Item: F117  ArabitaPasta
+Cost: 23.0AED
+
+-------------------------------
+Total AED: 23.0
+Assigned to: null
+Partial Income: 39.0
+
+
+
+customer eax40: 
+Item: B114  Coffee
+Cost: 2.0AED
+
+-------------------------------
+Item: B114  Coffee
+Cost: 2.0AED
+
+-------------------------------
+Total AED: 4.0
+Assigned to: null
+Partial Income: 43.0
+
+
+
+customer mqqi1: 
+Item: F117  ArabitaPasta
+Cost: 23.0AED
+
+-------------------------------
+Total AED: 23.0
+Assigned to: the Chef
+Partial Income: 66.0
+
+
+
+customer ovp4g: 
+Item: F118  Ramen
+Cost: 14.0AED
+
+-------------------------------
+Total AED: 14.0
+Assigned to: null
+Partial Income: 80.0
+
+
+
+customer tlzqt: 
+Item: B113  Tea
+Cost: 2.0AED
+
+-------------------------------
+Total AED: 2.0
+Assigned to: null
+Partial Income: 82.0
+
+
+
+customer v2re4: 
+Item: F118  Ramen
+Cost: 14.0AED
+
+-------------------------------
+Item: F116  ClubSandwich
+Cost: 26.0AED
+
+-------------------------------
+Item: F118  Ramen
+Cost: 14.0AED
+
+-------------------------------
+Item: F119  Cheese
+Cost: 1.0AED
+
+-------------------------------
+Total AED: 55.0
+Assigned to: null
+Partial Income: 137.0
+
+
+
+customer pc8k2: 
+Item: F116  ClubSandwich
+Cost: 26.0AED
+
+-------------------------------
+Total AED: 26.0
+Assigned to: null
+Partial Income: 163.0
+
+
+
+customer a8j2p: 
+Item: I123  Internet1
+Cost: 10.0AED
+
+-------------------------------
+Total AED: 10.0
+Assigned to: null
+Partial Income: 173.0
+
+
+
+
+**********************************
+		Item frequency
+**********************************
+
+**************** FOOD *******************
+ClubSandwich  (F116)  : 2
+ArabitaPasta  (F117)  : 2
+Ramen  (F118)  : 3
+Cheese  (F119)  : 1
+
+**************** BEVERAGE *******************
+MangoMilkshake  (B111)  : 1
+Tea  (B113)  : 3
+Coffee  (B114)  : 3
+
+**************** OTHER *******************
+Internet1  (I123)  : 1

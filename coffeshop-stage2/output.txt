@@ -1,0 +1,1107 @@
+discount1 -- 3:FOOD+2:BEVERAGE -- 20
+discount2 -- 1:pizza+1:BEVERAGE+1:OTHER -- 10
+discount3 -- 1:BEVERAGE+1:shisha -- 25
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 40ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 3ms
+FAIL
+Results:
+[]
+time = 3ms
+FAIL
+Results:
+[]
+time = 2ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 2ms
+FAIL
+Results:
+[]
+time = 2ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 2ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 3ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 1ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, null, ], [jsck7000, B113, 14:59, 25-03-21, 0%, null, ], [jsck7001, B113, 14:59, 25-03-21, 0%, null, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+GetManagementTable --> There are 8 lines in the table
+Hash value: 611488317
+Creating report...
+Chef is waiting!!!
+The Observer has just received a notification!
+Barista is waiting!!!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, staff1, ], [jsck7000, B113, 14:59, 25-03-21, 0%, null, ], [jsck7001, B113, 14:59, 25-03-21, 0%, null, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Processing customer uysk4 counter:0
+Order uysk4000 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, null, ], [jsck7001, B113, 14:59, 25-03-21, 0%, null, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, null, ], [jsck7001, B113, 14:59, 25-03-21, 0%, null, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Order uysk4000 has been assigned to the Barista!!
+The Observer has just received a notification!
+time: 2
+newTime: 1.0
+the Barista Processing Order uysk4000  time: 60000
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, staff1, ], [jsck7001, B113, 14:59, 25-03-21, 0%, staff1, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Processing customer jsck7 counter:1
+Order jsck7000 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, staff1, ], [jsck7001, B113, 14:59, 25-03-21, 0%, staff1, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, staff1, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, staff1, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+Order jsck7000 has been assigned to the Barista!!
+Order jsck7001 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+Order jsck7001 has been assigned to the Barista!!
+ONLine ORDER: mqqi1
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, staff1, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+Processing customer mqqi1 counter:2
+Order mqqi1001 is assigned to the Chef!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, null, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+Order mqqi1001 has been assigned to the Chef!!
+The Observer has just received a notification!
+time: 2
+newTime: 1.0
+the Chef Processing Order mqqi1001  time: 60000
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+Processing customer pfflo counter:0
+The Observer has just received a notification!
+staff1 Processing Order pfflo004  time: 60000
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+mqqi1001 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, null, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Next Online order in 30 secs.
+CHANGE THE SLIDE ----> 0.5
+CHANGE THE SLIDE ----> 0.4
+CHANGE THE SLIDE ----> 0.30000000000000004
+CHANGE THE SLIDE ----> 0.2
+CHANGE THE SLIDE ----> 0.1
+CHANGE THE SLIDE ----> 0.1
+Checkbox is selected
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, staff2, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Processing customer xpha8 counter:0
+Order xpha8000 is assigned to the Chef!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, null, ], [eax40001, B114, 15:00, 25-03-21, 0%, null, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Order xpha8000 has been assigned to the Chef!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, staff2, ], [eax40001, B114, 15:00, 25-03-21, 0%, staff2, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Processing customer eax40 counter:1
+Order eax40000 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, staff2, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, staff2, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Order eax40000 has been assigned to the Barista!!
+Order eax40001 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Order eax40001 has been assigned to the Barista!!
+There are no more customers in the queue!!!!
+Checkbox is selected
+There are no more customers in the queue!!!!
+Checkbox is selected
+There are no more customers in the queue!!!!
+Adding order OLjig2c000 for customer OLjig2c
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Adding order OLjig2c001 for customer OLjig2c
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, null, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Adding order OLjig2c002 for customer OLjig2c
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, null, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, null, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 4ms
+FAIL
+Results:
+[]
+time = 1ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, null, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, null, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+ONLine ORDER: OLjig2c
+The Observer has just received a notification!
+Next Online order in 150 secs.
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, staff2, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Processing customer OLjig2c counter:2
+Order OLjig2c000 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, staff2, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, staff2, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Order OLjig2c000 has been assigned to the Barista!!
+Order OLjig2c002 is assigned to the Chef!!
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Order OLjig2c002 has been assigned to the Chef!!
+staff2 Processing Order OLjig2c001  time: 12000
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c001, B115, 14:04, 01-04-21, 0%, staff2, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+OLjig2c001 <---> staff2
+staff2 Removing Order OLjig2c001
+The Observer has just received a notification!
+----------------------------------
+[[uysk4000, B114, 14:58, 25-03-21, 0%, the Barista, ], [jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+uysk4000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+Order OLjig2c001 removed
+There are no more customers in the queue!!!!
+the Barista Removing Order uysk4000
+The Observer has just received a notification!
+----------------------------------
+[[jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+time: 1
+newTime: 0.1
+the Barista Processing Order jsck7000  time: 6000
+The Observer has just received a notification!
+----------------------------------
+[[jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [mqqi1001, F117, 15:00, 25-03-21, 0%, the Chef, Online], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+jsck7000 <---> the Barista
+pfflo004 <---> staff1
+mqqi1001 <---> the Chef
+the Chef Removing Order mqqi1001
+The Observer has just received a notification!
+----------------------------------
+[[jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+jsck7000 <---> the Barista
+pfflo004 <---> staff1
+time: 2
+newTime: 0.2
+the Chef Processing Order xpha8000  time: 12000
+The Observer has just received a notification!
+----------------------------------
+[[jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [pfflo004, B111, 14:59, 25-03-21, 0%, staff1, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+staff1 Removing Order pfflo004
+The Observer has just received a notification!
+jsck7000 <---> the Barista
+pfflo004 <---> staff1
+xpha8000 <---> the Chef
+The Observer has just received a notification!
+----------------------------------
+[[jsck7000, B113, 14:59, 25-03-21, 0%, the Barista, ], [jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+Exception in thread "AWT-EventQueue-0" java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at f21as.coursework.coffeshop.gui.OrdersTableModel.getValueAt(OrdersTableModel.java:41)
+	at java.desktop/javax.swing.JTable.getValueAt(JTable.java:2706)
+	at java.desktop/javax.swing.JTable.prepareRenderer(JTable.java:5724)
+	at java.desktop/javax.swing.plaf.basic.BasicTableUI.paintCell(BasicTableUI.java:2190)
+	at java.desktop/javax.swing.plaf.basic.BasicTableUI.paintCells(BasicTableUI.java:2092)
+	at java.desktop/javax.swing.plaf.basic.BasicTableUI.paint(BasicTableUI.java:1888)
+	at java.desktop/javax.swing.plaf.ComponentUI.update(ComponentUI.java:161)
+	at java.desktop/javax.swing.JComponent.paintComponent(JComponent.java:797)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1074)
+	at java.desktop/javax.swing.JComponent.paintChildren(JComponent.java:907)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1083)
+	at java.desktop/javax.swing.JViewport.paint(JViewport.java:737)
+	at java.desktop/javax.swing.JComponent.paintChildren(JComponent.java:907)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1083)
+	at java.desktop/javax.swing.JComponent.paintToOffscreen(JComponent.java:5255)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBufferedFPScales(RepaintManager.java:1707)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1616)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1556)
+	at java.desktop/javax.swing.RepaintManager.paint(RepaintManager.java:1323)
+	at java.desktop/javax.swing.JComponent._paintImmediately(JComponent.java:5203)
+	at java.desktop/javax.swing.JComponent.paintImmediately(JComponent.java:5013)
+	at java.desktop/javax.swing.RepaintManager$4.run(RepaintManager.java:865)
+	at java.desktop/javax.swing.RepaintManager$4.run(RepaintManager.java:848)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:848)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:823)
+	at java.desktop/javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:772)
+	at java.desktop/javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1884)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:316)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+The Observer has just received a notification!
+jsck7000 <---> the Barista
+xpha8000 <---> the Chef
+Order pfflo004 removed
+There are no more customers in the queue!!!!
+the Barista Removing Order jsck7000
+The Observer has just received a notification!
+----------------------------------
+[[jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+xpha8000 <---> the Chef
+time: 1
+newTime: 0.1
+the Barista Processing Order jsck7001  time: 6000
+The Observer has just received a notification!
+----------------------------------
+[[jsck7001, B113, 14:59, 25-03-21, 0%, the Barista, ], [xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+jsck7001 <---> the Barista
+xpha8000 <---> the Chef
+the Barista Removing Order jsck7001
+The Observer has just received a notification!
+----------------------------------
+[[xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+xpha8000 <---> the Chef
+time: 2
+newTime: 0.2
+the Barista Processing Order eax40000  time: 12000
+The Observer has just received a notification!
+----------------------------------
+[[xpha8000, F117, 14:59, 25-03-21, 0%, the Chef, ], [eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+xpha8000 <---> the Chef
+eax40000 <---> the Barista
+the Chef Removing Order xpha8000
+The Observer has just received a notification!
+----------------------------------
+[[eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+eax40000 <---> the Barista
+time: 2
+newTime: 0.2
+the Chef Processing Order OLjig2c002  time: 12000
+The Observer has just received a notification!
+----------------------------------
+[[eax40000, B114, 15:00, 25-03-21, 0%, the Barista, ], [eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+eax40000 <---> the Barista
+OLjig2c002 <---> the Chef
+the Barista Removing Order eax40000
+The Observer has just received a notification!
+----------------------------------
+[[eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLjig2c002 <---> the Chef
+time: 2
+newTime: 0.2
+the Barista Processing Order eax40001  time: 12000
+The Observer has just received a notification!
+----------------------------------
+[[eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online], [OLjig2c002, F123, 14:04, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+eax40001 <---> the Barista
+OLjig2c002 <---> the Chef
+the Chef Removing Order OLjig2c002
+The Observer has just received a notification!
+----------------------------------
+[[eax40001, B114, 15:00, 25-03-21, 0%, the Barista, ], [OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online]]
+----------------------------------
+The Observer has just received a notification!
+eax40001 <---> the Barista
+Chef is waiting!!!
+the Barista Removing Order eax40001
+The Observer has just received a notification!
+----------------------------------
+[[OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online]]
+----------------------------------
+The Observer has just received a notification!
+time: 1
+newTime: 0.1
+the Barista Processing Order OLjig2c000  time: 6000
+The Observer has just received a notification!
+----------------------------------
+[[OLjig2c000, B113, 14:04, 01-04-21, 0%, the Barista, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLjig2c000 <---> the Barista
+the Barista Removing Order OLjig2c000
+The Observer has just received a notification!
+----------------------------------
+[]
+----------------------------------
+The Observer has just received a notification!
+Barista is waiting!!!
+Adding order OLz2kxz000 for customer OLz2kxz
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Adding order OLz2kxz001 for customer OLz2kxz
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, null, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Adding order OLz2kxz002 for customer OLz2kxz
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, null, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, null, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 0ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+time = 2ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, null, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, null, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Next Online order in 120 secs.
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, staff3, Online]]
+----------------------------------
+The Observer has just received a notification!
+Processing customer OLz2kxz counter:0
+Order OLz2kxz000 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, the Barista, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, staff3, Online]]
+----------------------------------
+The Observer has just received a notification!
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, the Barista, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, staff3, Online]]
+----------------------------------
+The Observer has just received a notification!
+Order OLz2kxz000 has been assigned to the Barista!!
+Order OLz2kxz002 is assigned to the Chef!!
+The Observer has just received a notification!
+time: 1
+newTime: 0.1
+the Barista Processing Order OLz2kxz000  time: 6000
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, the Barista, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, the Barista, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+The Observer has just received a notification!
+OLz2kxz000 <---> the Barista
+The Observer has just received a notification!
+OLz2kxz000 <---> the Barista
+Order OLz2kxz002 has been assigned to the Chef!!
+staff3 Processing Order OLz2kxz001  time: 12000
+The Observer has just received a notification!
+time: 2
+newTime: 0.2
+the Chef Processing Order OLz2kxz002  time: 12000
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, the Barista, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLz2kxz000 <---> the Barista
+OLz2kxz001 <---> staff3
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz000, B113, 14:06, 01-04-21, 0%, the Barista, Online], [OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLz2kxz000 <---> the Barista
+OLz2kxz001 <---> staff3
+OLz2kxz002 <---> the Chef
+the Barista Removing Order OLz2kxz000
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz001, B111, 14:06, 01-04-21, 0%, staff3, Online], [OLz2kxz002, F123, 14:06, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLz2kxz001 <---> staff3
+OLz2kxz002 <---> the Chef
+Barista is waiting!!!
+staff3 Removing Order OLz2kxz001
+The Observer has just received a notification!
+----------------------------------
+[[OLz2kxz002, F123, 14:06, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLz2kxz002 <---> the Chef
+Order OLz2kxz001 removed
+There are no more customers in the queue!!!!
+the Chef Removing Order OLz2kxz002
+The Observer has just received a notification!
+----------------------------------
+[]
+----------------------------------
+The Observer has just received a notification!
+Chef is waiting!!!
+Adding order OLhiol2000 for customer OLhiol2
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Adding order OLhiol2001 for customer OLhiol2
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, null, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 0ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, null, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Next Online order in 30 secs.
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, staff4, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, staff4, Online]]
+----------------------------------
+The Observer has just received a notification!
+Processing customer OLhiol2 counter:0
+Order OLhiol2000 is assigned to the Barista!!
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, the Barista, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, staff4, Online]]
+----------------------------------
+The Observer has just received a notification!
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, the Barista, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, staff4, Online]]
+----------------------------------
+The Observer has just received a notification!
+Order OLhiol2000 has been assigned to the Barista!!
+staff4 Processing Order OLhiol2001  time: 6000
+The Observer has just received a notification!
+time: 2
+newTime: 0.2
+the Barista Processing Order OLhiol2000  time: 12000
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, the Barista, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, staff4, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLhiol2001 <---> staff4
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, the Barista, Online], [OLhiol2001, F119, 14:08, 01-04-21, 0%, staff4, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLhiol2000 <---> the Barista
+OLhiol2001 <---> staff4
+staff4 Removing Order OLhiol2001
+The Observer has just received a notification!
+----------------------------------
+[[OLhiol2000, B114, 14:08, 01-04-21, 0%, the Barista, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLhiol2000 <---> the Barista
+Order OLhiol2001 removed
+There are no more customers in the queue!!!!
+the Barista Removing Order OLhiol2000
+The Observer has just received a notification!
+----------------------------------
+[]
+----------------------------------
+The Observer has just received a notification!
+Barista is waiting!!!
+Adding order OLfu50o000 for customer OLfu50o
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Adding order OLfu50o001 for customer OLfu50o
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, null, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Adding order OLfu50o002 for customer OLfu50o
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, null, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, null, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+---------------------------
+Item: BEVERAGE   count: 2
+Item: FOOD   count: 3
+---------------------------
+Item: OTHER   count: 1
+Item: BEVERAGE   count: 1
+Item: pizza   count: 1
+---------------------------
+Item: shisha   count: 1
+Item: BEVERAGE   count: 1
+time = 0ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+time = 0ms
+FAIL
+Results:
+[]
+The final discounted orders are: null
+Saving: 0.0
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, null, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, null, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, null, Online]]
+----------------------------------
+The Observer has just received a notification!
+Next Online order in 60 secs.
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, staff2, Online]]
+----------------------------------
+The Observer has just received a notification!
+Processing customer OLfu50o counter:0
+Order OLfu50o002 is assigned to the Chef!!
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+Order OLfu50o002 has been assigned to the Chef!!
+staff2 Processing Order OLfu50o000  time: 12000
+The Observer has just received a notification!
+time: 2
+newTime: 0.2
+the Chef Processing Order OLfu50o002  time: 12000
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLfu50o000 <---> staff2
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o000, B111, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLfu50o000 <---> staff2
+OLfu50o002 <---> the Chef
+staff2 Removing Order OLfu50o000
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLfu50o002 <---> the Chef
+Order OLfu50o000 removed
+staff2 Processing Order OLfu50o001  time: 12000
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online], [OLfu50o002, F117, 14:09, 01-04-21, 0%, the Chef, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLfu50o001 <---> staff2
+OLfu50o002 <---> the Chef
+the Chef Removing Order OLfu50o002
+The Observer has just received a notification!
+----------------------------------
+[[OLfu50o001, B112, 14:09, 01-04-21, 0%, staff2, Online]]
+----------------------------------
+The Observer has just received a notification!
+OLfu50o001 <---> staff2
+Chef is waiting!!!
+staff2 Removing Order OLfu50o001
+The Observer has just received a notification!
+----------------------------------
+[]
+----------------------------------
+The Observer has just received a notification!
+Order OLfu50o001 removed
+There are no more customers in the queue!!!!
